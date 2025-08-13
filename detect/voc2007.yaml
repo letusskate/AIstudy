@@ -1,0 +1,30 @@
+# VOC2007数据集配置
+path: ./datasets/VOC2007_split
+train: images/train
+val: images/val
+
+# 类别数
+nc: 20
+
+# 类别名称
+names:
+  0: aeroplane
+  1: bicycle
+  2: bird
+  3: boat
+  4: bottle
+  5: bus
+  6: car
+  7: cat
+  8: chair
+  9: cow
+  10: diningtable
+  11: dog
+  12: horse
+  13: motorbike
+  14: person
+  15: pottedplant
+  16: sheep
+  17: sofa
+  18: train
+  19: tvmonitor

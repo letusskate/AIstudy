@@ -1,0 +1,1 @@
+python train_yolov8.py --data voc2007.yaml --weights yolov8n.pt --epochs 100 --batch 16 --imgsz 640 --device 0
